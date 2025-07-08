@@ -2,7 +2,6 @@
 .envrc
 
 # vscode
-.vscode/
 
 # npm
 node_modules
@@ -14,3 +13,4 @@ node_modules
 
 # coverage
 .coverage
+config.bat
